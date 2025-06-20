@@ -97,7 +97,3 @@ This document provides a simple and organized overview of all the custom keybind
 |------|-----------------|---------------------------------------------------------------------------------------------|
 | `n`  | `<leader>dg`    | Run `DogeGenerate` (comment documentation generation)                                       |
 | `n`  | `<leader>s`     | Replace all instances of the word under the cursor on the current line                      |
-
----
-
-Let me know if you want to modify or add descriptions for any specific keybinds!
